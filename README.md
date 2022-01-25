@@ -5,7 +5,7 @@ In this project we have two quizzes to solve. The quizzes is to practice SQL que
 
 ### - Quiz-1 | SELECT Quiz
 In this quiz we are practicing basic SQL select queries. it has 7 questions each one with one score.
-The link of the quiz is [here](https://sqlzoo.net/wiki/SELECT_Quiz).
+The link of the quiz is [here](https://sqlzoo.net/wiki/SELECT_Quiz)
 
 This is the score I got:
 
@@ -16,7 +16,7 @@ This is the score I got:
 
 ### - Quiz-2 | JOIN Quiz
 In this quiz we are practicing join queries. it has 7 questions each one with one score.
-The link of the quiz is [here](https://sqlzoo.net/wiki/JOIN_Quiz).
+The link of the quiz is [here](https://sqlzoo.net/wiki/JOIN_Quiz)
 
 This is the score I got:
 
